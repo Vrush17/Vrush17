@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, Welcome to my Github page!</h1>
 <h3 align="center">I'm Vrushali, a Data Engineer having 3+ years of experience working in various domains like software development, data warehousing and ETL process design</h3>
 
+- 🌱 currently pursuing an MSc **in Artificial Intelligence at Dublin Business School**
+
 - 📫 How to reach me **borikar.vrushali@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
