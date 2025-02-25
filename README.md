@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to my Github page!</h1>
 <h3 align="center">I'm Vrushali, a Data Engineer having 3+ years of experience working in various domains like software development, data warehousing and ETL process design</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrush17&label=Profile%20views&color=0e75b6&style=flat" alt="vrush17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrush17" alt="vrush17" /></a> </p>
-
 - 📫 How to reach me **borikar.vrushali@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
