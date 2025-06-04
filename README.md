@@ -15,14 +15,11 @@
   <a href="https://www.linkedin.com/in/vrushali-borikar-929313132" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/vrushali0817/" target="_blank">
+ <a href="https://leetcode.com/u/vrushali17/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://x.com/vrushali0817" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
-  </a>
-  <a href="mailto:borikar.vrushali@yahoo.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="Email" height="30" width="40" />
   </a>
 </p>
 
