@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub!</h1>
-<h3 align="center">I'm Vrushali Borikar, a passionate Data Engineer with 3+ years of experience across software development, data engineering, ETL pipeline design, and big data solutions</h3>
+<h3 align="center">I'm Vrushali Borikar, a passionate Data Engineer with years of experience in software development, data engineering, ETL pipeline design, and big data solutions.</h3>
 
 <p align="center">
 🎓 Currently pursuing my MSc in <strong>Artificial Intelligence</strong> at <em>Dublin Business School</em><br>
